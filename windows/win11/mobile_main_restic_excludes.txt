@@ -1,1 +1,17 @@
-C:/ProgramData
+C:/Program Files/Microsoft SQL*
+C:/Program Files/Windows Defender Advanced Threat Protection
+C:/Program Files/WindowsApps
+C:/Program Files (x86)/Google/CrashReports
+C:/Program Files (x86)/Google/Temp
+C:/ProgramData/Microsoft/Crypto/PCPKSP/WindowsAIK
+C:/ProgramData/Microsoft/Diagnosis
+C:/ProgramData/Microsoft/Network\Downloader
+C:/ProgramData/Microsoft/Provisioning\AssetCache
+C:/ProgramData/Microsoft/Search\Data
+C:/ProgramData/Microsoft/SmsRouter
+C:/ProgramData/Microsoft/Spectrum
+C:/ProgramData/NVIDIA Corporation
+C:/ProgramData/Packages
+C:/ProgramData/Tailscale
+C:/ProgramData/WindowsHolographicDevices
+C:/Users/wutao/AppData/Local/Temp*
