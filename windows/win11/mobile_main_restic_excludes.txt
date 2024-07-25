@@ -19,3 +19,4 @@ C:/Program Files/WindowsApps
 C:/Program Files (x86)/Google/CrashReports
 C:/Program Files (x86)/Google/Temp
 C:/Users/wutao/AppData/Local/Temp*
+C:/Users/TaoWu

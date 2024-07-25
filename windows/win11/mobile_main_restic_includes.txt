@@ -4,8 +4,4 @@ C:/Program Files
 C:/Program Files (x86)
 C:/ProgramData
 C:/tools
-<<<<<<< HEAD
 C:/Users
-=======
-C:/Users/wutao??
->>>>>>> origin/master
