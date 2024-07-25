@@ -3,5 +3,5 @@ C:/foxmail
 C:/Program Files
 C:/Program Files (x86)
 C:/ProgramData
-C:/tools??
+C:/tools
 C:/Users

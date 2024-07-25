@@ -1,1 +1,4 @@
-C:/ProgramData
+C:/ProgramData/Intel Package Cache*
+C:/ProgramData/SOLIDWORKS*
+C:/ProgramData/Microsoft/windows*
+C:/ProgramData/Microsoft/Windows*
