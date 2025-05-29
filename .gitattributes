@@ -1,8 +1,9 @@
-# Encrypt
-## Encrypt all files under vault
+# Git-crypt Encrypt
+# Encrypt all files under vault
 # vault/** filter=git-crypt diff=git-crypt
+vault/git-crypt/** filter=git-crypt diff=git-crypt
 
-## Make sure that .gitattributes is never encrypted.
+# Make sure that .gitattributes is never encrypted.
 .gitattributes !filter !diff
-## Make sure that .gitignore is never encrypted.
+# Make sure that .gitignore is never encrypted.
 .gitignore !filter !diff
